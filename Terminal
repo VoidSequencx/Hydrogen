@@ -1,1 +1,1 @@
-sudo /bin/bash -c "$(curl -fsSL )"
+sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/VoidSequencx/Hydrogen/main/installer)"
